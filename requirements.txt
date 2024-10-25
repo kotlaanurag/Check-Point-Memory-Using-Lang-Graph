@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+langgraph-checkpoint-postgres
+psycopg
+psycopg-pool
+rich
+langchain-groq
